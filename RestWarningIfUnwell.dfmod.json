@@ -1,0 +1,13 @@
+{
+    "ModTitle": "RestWarningIfUnwell",
+    "ModVersion": "1.00",
+    "ModAuthor": "Kirk.O",
+    "ContactInfo": "kirkoliveri@gmail.com",
+    "DFUnity_Version": "0.13.4",
+    "ModDescription": "Gives A Warning Message When Opening The Rest Window, If Currently Poisoned Or Diseased.",
+    "GUID": "9cf04afb-4cc3-4b3c-84c5-9f2cfdb107a0",
+    "Files": [
+        "Assets/Game/Mods/DFU-Mod_Rest-Warning-If-Unwell/Scripts/RestWarningIfUnwellMain.cs"
+    ],
+    "Dependencies": []
+}
